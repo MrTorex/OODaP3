@@ -1,0 +1,22 @@
+C++_Basics
+5
+What is a pointer?;A variable,A function,A memory address,None of the above;2
+Which of these is a loop construct in C++?;if,while,int,double;1
+What does `#include <iostream>` do?;Includes input/output library,Defines a function,Declares a variable,Starts the program;0
+What is the default value of an uninitialized int in C++?;0,1,Undefined,-1;2
+Which symbol is used to comment a single line in C++?;--,//,/*,%%;1
+C++_MemoryManagement
+5
+Which keyword is used to allocate memory dynamically?;new,malloc,allocate,assign;0
+What happens if delete is used on a null pointer?;Crash,Undefined behavior,Nothing,Throws an exception;2
+Which function is used to release memory allocated by malloc()?;free,delete,release,nullptr;0
+What is a memory leak?;Memory corruption,Memory that is no longer used but not released,Failure to allocate memory,Corrupted stack;1
+How do you allocate an array of 10 ints using new?;new int[10],malloc(10),new array<int>(10),int[10] allocate;0
+C++_OOP
+5
+Which principle is NOT part of OOP?;Encapsulation,Inheritance,Polymorphism,Compilation;3
+What is the keyword to define a base class in C++?;class,extends,implements,base;0
+How do you declare a virtual function?;virtual void func(),void virtual func(),void func() virtual,None of the above;0
+What does the `override` keyword ensure?;The function exists,The function overrides a base class method,The function is private,The function is static;1
+What is the default access level for class members in C++?;public,private,protected,none;1
+
